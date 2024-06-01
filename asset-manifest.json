@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/foreverwedding/static/css/main.94c160a7.css",
+    "main.js": "/foreverwedding/static/js/main.89e6a52b.js",
+    "static/js/453.1880f60c.chunk.js": "/foreverwedding/static/js/453.1880f60c.chunk.js",
+    "static/media/consult.jpg": "/foreverwedding/static/media/consult.89a3f81d1729c122d401.jpg",
+    "static/media/Auditorium.jpg": "/foreverwedding/static/media/Auditorium.27be167916dfb5c972bb.jpg",
+    "static/media/viji2.jpg": "/foreverwedding/static/media/viji2.5061e51ed5f4679b1209.jpg",
+    "static/media/sandeep.jpg": "/foreverwedding/static/media/sandeep.4d81802175ce432882a4.jpg",
+    "static/media/sreepraba.jpg": "/foreverwedding/static/media/sreepraba.d9be9608be040c0192bc.jpg",
+    "static/media/shivmandir.jpeg": "/foreverwedding/static/media/shivmandir.a535276aeed6f81f3341.jpeg",
+    "static/media/shaji2.jpg": "/foreverwedding/static/media/shaji2.bca0fac046508a0ae653.jpg",
+    "static/media/subi.jpg": "/foreverwedding/static/media/subi.93b7bf61a7d4a9708db9.jpg",
+    "static/media/aryasamaj.jpeg": "/foreverwedding/static/media/aryasamaj.eb85f4248cfc3b9b7e97.jpeg",
+    "static/media/viji3.jpg": "/foreverwedding/static/media/viji3.ec9eb0359de15a2d0600.jpg",
+    "static/media/backgroundHome.jpeg": "/foreverwedding/static/media/backgroundHome.4d1290bdda5eabd7fc53.jpeg",
+    "static/media/backgroundPage.jpg": "/foreverwedding/static/media/backgroundPage.6794a848a53fdddf0104.jpg",
+    "static/media/logo.png": "/foreverwedding/static/media/logo.92f085132f1746fc358a.png",
+    "static/media/slick.svg": "/foreverwedding/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/foreverwedding/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/foreverwedding/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/foreverwedding/index.html",
+    "static/media/slick.woff": "/foreverwedding/static/media/slick.295183786cd8a1389865.woff",
+    "main.94c160a7.css.map": "/foreverwedding/static/css/main.94c160a7.css.map",
+    "main.89e6a52b.js.map": "/foreverwedding/static/js/main.89e6a52b.js.map",
+    "453.1880f60c.chunk.js.map": "/foreverwedding/static/js/453.1880f60c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94c160a7.css",
+    "static/js/main.89e6a52b.js"
+  ]
+}
